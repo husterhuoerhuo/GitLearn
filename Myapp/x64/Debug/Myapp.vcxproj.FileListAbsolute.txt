@@ -1,0 +1,2 @@
+D:\LearnGit\Myapp\x64\Debug\Myapp.exe
+D:\LearnGit\Myapp\x64\Debug\Myapp.pdb
